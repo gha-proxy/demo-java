@@ -258,6 +258,7 @@ Notice that the security alert was found `In pull request` and not in the `main`
 </p>
 </details>
 
+
 ## Next Steps
 
 Ready to talk about advanced security features for GitHub Enterprise? [Contact Sales](https://enterprise.github.com/contact) for more information!

@@ -255,10 +255,8 @@ Click on `Show more details` by the new `Code Scanning Alert` to jump to the `Se
 
 Notice that the security alert was found `In pull request` and not in the `main` branch (production).
 
-
 </p>
 </details>
-
 
 ## Next Steps
 

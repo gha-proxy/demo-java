@@ -14,6 +14,9 @@ This tutorial with use CodeQL Analysis with Code Scanning in order to search for
 
 <details>
 <summary>Create repository fork</summary>
+
+
+  
 <p> 
   
 Begin by [creating a new repository from a fork (public)](https://docs.github.com/en/get-started/quickstart/fork-a-repo) or [cloning the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
